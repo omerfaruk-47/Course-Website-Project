@@ -9,4 +9,4 @@ HTML-CSS
 
 <h2>Screenshot</h2>
 
-! [] (website.gif)
+! [] {website.gif}
