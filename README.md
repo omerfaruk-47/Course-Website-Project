@@ -7,6 +7,6 @@ A site where you can get simple and clear information.
 
 HTML-CSS
 
-<h2> Screenshot</h2>
+<h2>Screenshot</h2>
 
-! [](website.gif)
+! [] (website.gif)
